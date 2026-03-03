@@ -16,7 +16,7 @@ I have a strong passion for the intersection of **Data Science** and **DevOps (M
 
 ### 💻 Tech Stack & Tools
 - **Data Engineering & ETL:** Pentaho Data Integration, Python (Pandas, Requests), Luigi, SQL
-- **BI & Analytics:** Power BI, Microsoft Excel (Advanced), DAX
+- **BI & Analytics:** Power BI, Microsoft Excel (Advanced), Looker Data Studio, DAX, BigQuery
 - **DevOps, Cloud & Ops:** Docker, Google Cloud Platform (GCP), Linux (Bash/Cron)
 - **Software Development:** CodeIgniter 4 (PHP) for custom web-based BI tools
 
