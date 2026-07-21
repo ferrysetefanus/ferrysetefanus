@@ -30,4 +30,6 @@ I have a strong passion for the intersection of **Data Science** and **DevOps (M
 - 🎸 Outside of writing SQL queries and orchestrating data, I play the bass guitar and love speedcubing.
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrysetefanus/)
 *Let's connect and build scalable data solutions together!* 🤝
